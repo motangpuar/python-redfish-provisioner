@@ -1,0 +1,6 @@
+*.swp
+*.iso
+venv/
+examples/
+idrac.yaml
+__pycache__/
